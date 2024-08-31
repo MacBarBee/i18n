@@ -1,0 +1,1382 @@
+/* No comment provided by engineer. */
+" in the menu bar to start!" = "trên thanh menu để bắt đầu!";
+
+/* No comment provided by engineer. */
+" will be always hidden." = "sẽ luôn bị ẩn.";
+
+/* No comment provided by engineer. */
+" will be hidden." = "sẽ bị ẩn.";
+
+/* No comment provided by engineer. */
+"sec(s)" = "giây";
+
+/* No comment provided by engineer. */
+"• Manage the menu bar icons as you want" = "• Quản lý biểu tượng trên thanh menu theo ý muốn";
+
+/* No comment provided by engineer. */
+"• Various menu appearance styles" = "• Nhiều kiểu dáng thanh menu khác nhau";
+
+/* No comment provided by engineer. */
+"• Reduce menu bar icon spacing" = "• Giảm khoảng cách giữa các biểu tượng trên thanh menu";
+
+/* No comment provided by engineer. */
+"• Support the menu bar with a notch" = "• Hỗ trợ thanh menu có phần khuyết tai thỏ";
+
+/* No comment provided by engineer. */
+"• Unlimited number of times you can show/hide menu bar icons" = "• Số lần hiển thị/ẩn biểu tượng trên thanh menu không giới hạn";
+
+/* No comment provided by engineer. */
+"⌘ Shortcut List:" = "⌘ Danh sách phím tắt:";
+
+/* No comment provided by engineer. */
+"⏰️  Monitor menu bar item changes, then perform an action" = "⏰️  Giám sát thay đổi biểu tượng trên thanh menu, sau đó thực hiện hành động";
+
+/* No comment provided by engineer. */
+"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️Biểu tượng không phản hồi %@";
+
+/* No comment provided by engineer. */
+"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ Barbee không thu thập hay theo dõi bất kỳ dữ liệu cá nhân nào của bạn và Barbee không yêu cầu quyền truy cập mạng.";
+
+/* No comment provided by engineer. */
+"✅️ Accessibility permission granted" = "✅️ Đã cấp quyền truy cập cho Accessibility";
+
+/* No comment provided by engineer. */
+"✅️ Screen Recording permission granted" = "✅️ Đã cấp quyền truy cập cho Screen Recording";
+
+/* No comment provided by engineer. */
+"✉️ Contact us" = "✉️ Liên hệ với chúng tôi";
+
+/* No comment provided by engineer. */
+"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ Kéo để sắp xếp các biểu tượng trên thanh menu theo ý muốn của bạn!";
+
+/* No comment provided by engineer. */
+"🐝 Relaunch Barbee" = "🐝 Khởi động lại Barbee";
+
+/* No comment provided by engineer. */
+"🐞 Report bugs" = "🐞 Báo cáo lỗi";
+
+/* No comment provided by engineer. */
+"👀 View details..." = "👀 Xem chi tiết...";
+
+/* No comment provided by engineer. */
+"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 Trong cửa sổ cấp quyền bật lên, vui lòng 🔓mở khóa ở góc dưới bên trái trước, sau đó ✔️cho phép Barbee trong danh sách bên phải.";
+
+/* No comment provided by engineer. */
+"💥Supercharge your scripts or shortcuts with Barbee" = "💥Tăng cường các tập lệnh hoặc phím tắt của bạn với Barbee";
+
+/* No comment provided by engineer. */
+"📊 Export logs..." = "📊 Xuất nhật ký...";
+
+/* No comment provided by engineer. */
+"🔥️ Enhanced Mode" = "🔥️ Chế độ Nâng cao";
+
+/* No comment provided by engineer. */
+"🕶️ You are the VIP" = "🕶️ Bạn là VIP";
+
+/* No comment provided by engineer. */
+"🦄 Join TestFlight..." = "🦄 Tham gia TestFlight...";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widget group" = "🧩 Nhấp chuột phải để tùy chỉnh nhóm widget của Barbee";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widgets" = "🧩 Nhấp chuột phải để tùy chỉnh các widget của Barbee";
+
+/* No comment provided by engineer. */
+"🧩 Widget Management" = "🧩 Quản lý Widget";
+
+/* No comment provided by engineer. */
+"3-day Free Trial" = "Dùng thử miễn phí 3 ngày";
+
+/* No comment provided by engineer. */
+"About" = "Giới thiệu";
+
+/* No comment provided by engineer. */
+"Accessibility" = "Truy cập";
+
+/* No comment provided by engineer. */
+"Action" = "Hành động";
+
+/* No comment provided by engineer. */
+"Action:" = "Hành động:";
+
+/* No comment provided by engineer. */
+"Activate for %d second(s)" = "Kích hoạt trong %d giây";
+
+/* No comment provided by engineer. */
+"Activate for a while" = "Kích hoạt trong một thời gian";
+
+/* No comment provided by engineer. */
+"Activate seconds: %d" = "Kích hoạt giây: %d";
+
+/* No comment provided by engineer. */
+"Active" = "Kích hoạt";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name: ${profileName}" = "Đã kích hoạt hồ sơ Barbee với tên: ${profileName}";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name." = "Đã kích hoạt hồ sơ Barbee với tên.";
+
+/* No comment provided by engineer. */
+"Active Profile" = "Hồ sơ hoạt động";
+
+/* No comment provided by engineer. */
+"Actived profile successfully" = "Kích hoạt hồ sơ thành công";
+
+/* No comment provided by engineer. */
+"Add" = "Thêm";
+
+/* No comment provided by engineer. */
+"Add/Remove menu bar inner shadow and drop shadow." = "Thêm/Bỏ bóng trong và bóng thả trên thanh menu.";
+
+/* No comment provided by engineer. */
+"All Menu Bar Item" = "Tất cả các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"All menu bar items are visible on external screens" = "Tất cả các mục trên thanh menu đều hiển thị trên màn hình ngoài";
+
+/* No comment provided by engineer. */
+"Alpha Value" = "Giá trị Alpha";
+
+/* No comment provided by engineer. */
+"Always Hidden" = "Luôn bị ẩn";
+
+/* No comment provided by engineer. */
+"Always Hidden Items" = "Các mục luôn bị ẩn";
+
+/* No comment provided by engineer. */
+"Always Hidden Items:" = "Các mục luôn bị ẩn:";
+
+/* No comment provided by engineer. */
+"Always Hidden Menu Bar Item" = "Mục trên thanh menu luôn bị ẩn";
+
+/* No comment provided by engineer. */
+"App Modules" = "Mô-đun ứng dụng";
+
+/* No comment provided by engineer. */
+"Apply" = "Áp dụng";
+
+/* No comment provided by engineer. */
+"Authorize" = "Cấp quyền";
+
+/* No comment provided by engineer. */
+"Automation" = "Tự động hóa";
+
+/* No comment provided by engineer. */
+"Automation feature requires additional permissions!" = "Tính năng tự động hóa yêu cầu thêm quyền!";
+
+/* No comment provided by engineer. */
+"Backup profile successfully." = "Sao lưu hồ sơ thành công.";
+
+/* No comment provided by engineer. */
+"Backup to iCloud drive" = "Sao lưu vào ổ iCloud";
+
+/* No comment provided by engineer. */
+"Barbee requires Accessibility access to show/hide the menu bar items." = "Barbee yêu cầu quyền Truy cập để hiển thị/ẩn các mục trên thanh menu.";
+
+/* No comment provided by engineer. */
+"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "Barbee yêu cầu quyền Truy cập Màn hình để giám sát danh sách mục trên thanh menu và chụp ảnh các mục đã thay đổi.";
+
+/* No comment provided by engineer. */
+"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "Barbee cần quyền của bạn để truy cập các tính năng hệ thống nhằm cung cấp chức năng của nó. Vui lòng xem lại các quyền dưới đây.";
+
+/* No comment provided by engineer. */
+"Become VIP to use without limitation" = "Trở thành VIP để sử dụng không giới hạn";
+
+/* No comment provided by engineer. */
+"Beta Testing" = "Kiểm tra Beta";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Định danh Bundle";
+
+/* No comment provided by engineer. */
+"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "Thay đổi trạng thái bóng trong: ${innerShadowState}, trạng thái bóng thả: ${dropShadowState}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Color" = "Thay đổi màu thanh menu";
+
+/* No comment provided by engineer. */
+"Change menu bar color: ${color}" = "Thay đổi màu thanh menu: ${color}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Shadow State" = "Thay đổi trạng thái bóng của thanh menu";
+
+/* No comment provided by engineer. */
+"Change Top Notch State" = "Thay đổi trạng thái khuyết tai thỏ trên cùng";
+
+/* No comment provided by engineer. */
+"Change top notch state: ${state}" = "Thay đổi trạng thái khuyết tai thỏ trên cùng: ${state}";
+
+/* No comment provided by engineer. */
+"Change Wallpaper..." = "Thay đổi hình nền...";
+
+/* No comment provided by engineer. */
+"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "Thay đổi màu thanh menu của màn hình hiện tại, nhập chuỗi hex màu của bạn (ví dụ: \"0AB188FF\"). Khôi phục màu thanh menu nếu chuỗi hex trống.";
+
+/* No comment provided by engineer. */
+"Changing menu bar color requires user directory authorization" = "Thay đổi màu thanh menu yêu cầu cấp quyền thư mục người dùng";
+
+/* No comment provided by engineer. */
+"Changing menu item gaps requires user directory authorization" = "Thay đổi khoảng cách giữa các mục trên thanh menu yêu cầu cấp quyền thư mục người dùng";
+
+/* No comment provided by engineer. */
+"Choose a menu bar item" = "Chọn một mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Choose Barbee Mode" = "Chọn chế độ Barbee";
+
+/* No comment provided by engineer. */
+"Click menu bar item" = "Nhấp vào mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Click Menu Bar Item (Enhanced mode only)" = "Nhấp vào Mục trên Thanh Menu (chỉ dành cho chế độ Nâng cao)";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier: ${itemIdentifier}" = "Nhấp vào mục trên thanh menu theo định danh: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Nhấp vào mục trên thanh menu theo định danh (ví dụ: \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "Nhấp vào biểu tượng Barbee trên thanh menu để chuyển đổi hiển thị các mục bị ẩn trực tiếp";
+
+/* No comment provided by engineer. */
+"Click on the menu bar to toggle the visibility of hidden items" = "Nhấp vào thanh menu để chuyển đổi hiển thị các mục bị ẩn";
+
+/* No comment provided by engineer. */
+"Click the icon " = "Nhấp vào biểu tượng ";
+
+/* No comment provided by engineer. */
+"Close" = "Đóng";
+
+/* No comment provided by engineer. */
+"Color" = "Màu sắc";
+
+/* No comment provided by engineer. */
+"Configuration" = "Cấu hình";
+
+/* No comment provided by engineer. */
+"Confirm" = "Xác nhận";
+
+/* No comment provided by engineer. */
+"Content" = "Nội dung";
+
+/* No comment provided by engineer. */
+"Continue" = "Tiếp tục";
+
+/* No comment provided by engineer. */
+"Corner Radius" = "Bán kính góc";
+
+/* No comment provided by engineer. */
+"Current Item" = "Mục hiện tại";
+
+/* No comment provided by engineer. */
+"Custom shortcuts feature requires additional permissions!" = "Tính năng phím tắt tùy chỉnh yêu cầu thêm quyền!";
+
+/* No comment provided by engineer. */
+"Dark Background Color" = "Màu nền tối";
+
+/* No comment provided by engineer. */
+"Default Gap - system default spacing between items" = "Khoảng cách mặc định - khoảng cách mặc định giữa các mục theo hệ thống";
+
+/* No comment provided by engineer. */
+"Delay before hiding items again." = "Trì hoãn trước khi ẩn lại các mục.";
+
+/* No comment provided by engineer. */
+"Delete" = "Xóa";
+
+/* No comment provided by engineer. */
+"Delete `%@`" = "Xóa `%@`";
+
+/* No comment provided by engineer. */
+"Diagnostics" = "Chuẩn đoán";
+
+/* No comment provided by engineer. */
+"Do you want to backup profiles to iCloud?" = "Bạn có muốn sao lưu hồ sơ vào iCloud không?";
+
+/* No comment provided by engineer. */
+"Do you want to delete profile `%@`?" = "Bạn có muốn xóa hồ sơ `%@` không?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this automation?" = "Bạn có muốn xóa tự động hóa này không?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this shortcut?" = "Bạn có muốn xóa phím tắt này không?";
+
+/* No comment provided by engineer. */
+"Do you want to import this profile?" = "Bạn có muốn nhập dữ liệu vào hồ sơ này không?";
+
+/* No comment provided by engineer. */
+"Do you want to sync profiles from iCloud?" = "Bạn có muốn đồng bộ hồ sơ từ iCloud không?";
+
+/* No comment provided by engineer. */
+"Drop Shadow" = "Bóng mờ";
+
+/* No comment provided by engineer. */
+"Drop Shadow State" = "Trạng thái Bóng mờ";
+
+/* No comment provided by engineer. */
+"Edit" = "Chỉnh sửa";
+
+/* No comment provided by engineer. */
+"Energy Saver" = "Tiết kiệm năng lượng";
+
+/* No comment provided by engineer. */
+"Enhanced Mode" = "Chế độ Nâng cao";
+
+/* No comment provided by engineer. */
+"Enhanced mode is only available for Notch screens" = "Chế độ Nâng cao chỉ có sẵn cho màn hình có phần khuyết tai thỏ";
+
+/* No comment provided by engineer. */
+"Export" = "Xuất dữ liệu";
+
+/* No comment provided by engineer. */
+"Failed to active profile" = "Không thể kích hoạt hồ sơ";
+
+/* No comment provided by engineer. */
+"Failed to backup profile." = "Không thể sao lưu hồ sơ.";
+
+/* No comment provided by engineer. */
+"Failed to change menu item gap" = "Không thể thay đổi khoảng cách giữa các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Failed to export profile." = "Không thể xuất hồ sơ.";
+
+/* No comment provided by engineer. */
+"Failed to import profile." = "Không thể nhập dữ liệu vào hồ sơ.";
+
+/* No comment provided by engineer. */
+"Failed to restore" = "Không thể khôi phục";
+
+/* No comment provided by engineer. */
+"Failed to sync profile." = "Không thể đồng bộ hồ sơ.";
+
+/* No comment provided by engineer. */
+"Feedback" = "Phản hồi";
+
+/* No comment provided by engineer. */
+"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "Để cài đặt có hiệu lực, bạn phải bật `Khởi động cùng đăng nhập` của Barbee, đăng xuất và đăng nhập lại vào macOS.";
+
+/* No comment provided by engineer. */
+"Found %d profile(s)" = "Đã tìm thấy %d hồ sơ";
+
+/* No comment provided by engineer. */
+"Frame" = "Khung";
+
+/* No comment provided by engineer. */
+"Generic" = "Chung";
+
+/* No comment provided by engineer. */
+"Get all menu bar items" = "Lấy tất cả các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Get All Menu Bar Items" = "Lấy Tất cả các Mục trên Thanh Menu";
+
+/* No comment provided by engineer. */
+"Get always hidden menu bar items" = "Lấy các mục trên thanh menu luôn bị ẩn";
+
+/* No comment provided by engineer. */
+"Get Always Hidden Menu Bar Items" = "Lấy Các Mục trên Thanh Menu Luôn bị ẩn";
+
+/* No comment provided by engineer. */
+"Get App Modules" = "Lấy Mô-đun Ứng dụng";
+
+/* No comment provided by engineer. */
+"Get app modules using app bundle identifier: ${bundleIdentifier}" = "Lấy mô-đun ứng dụng bằng định danh bundle: ${bundleIdentifier}";
+
+/* No comment provided by engineer. */
+"Get hidden menu bar items" = "Lấy các mục trên thanh menu bị ẩn";
+
+/* No comment provided by engineer. */
+"Get Hidden Menu Bar Items" = "Lấy Các Mục trên Thanh Menu Bị ẩn";
+
+/* No comment provided by engineer. */
+"Get shown menu bar items" = "Lấy các mục trên thanh menu hiển thị";
+
+/* No comment provided by engineer. */
+"Get Shown Menu Bar Items" = "Lấy Các Mục trên Thanh Menu Hiển thị";
+
+/* No comment provided by engineer. */
+"Get Started" = "Bắt đầu";
+
+/* No comment provided by engineer. */
+"Go to Barbee preferences..." = "Đi tới tùy chọn của Barbee...";
+
+/* No comment provided by engineer. */
+"Grant Permissions to Barbee" = "Cấp quyền cho Barbee";
+
+/* No comment provided by engineer. */
+"Has Top Notch" = "Có phần khuyết tai thỏ trên cùng";
+
+/* No comment provided by engineer. */
+"Has top notch?" = "Có phần khuyết tai thỏ trên cùng?";
+
+/* No comment provided by engineer. */
+"Height" = "Chiều cao";
+
+/* No comment provided by engineer. */
+"Help Center" = "Trung tâm trợ giúp";
+
+/* No comment provided by engineer. */
+"Hidden" = "Bị ẩn";
+
+/* No comment provided by engineer. */
+"Hidden Items" = "Các mục bị ẩn";
+
+/* No comment provided by engineer. */
+"Hidden Items:" = "Các mục bị ẩn:";
+
+/* No comment provided by engineer. */
+"Hidden Menu Bar Item" = "Mục trên thanh menu bị ẩn";
+
+/* No comment provided by engineer. */
+"Hide" = "Ẩn";
+
+/* No comment provided by engineer. */
+"Hide All" = "Ẩn tất cả";
+
+/* No comment provided by engineer. */
+"Hide Menu Bar Item (Enhanced mode only)" = "Ẩn Mục trên Thanh Menu (chỉ chế độ Nâng cao)";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Ẩn mục trên thanh menu theo định danh: ${itemIdentifier}, tới X: ${x}";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Ẩn mục trên thanh menu theo định danh (ví dụ: \"com.apple.controlcenter-WiFi\"), X là tùy chọn.";
+
+/* No comment provided by engineer. */
+"Hide not-showing items" = "Ẩn các mục không hiển thị";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar icon to show / hide all items" = "Giữ phím CONTROL(⌃) và nhấp vào biểu tượng trên thanh menu để hiển thị/ẩn tất cả các mục";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar to show / hide all items" = "Giữ phím CONTROL(⌃) và nhấp vào thanh menu để hiển thị/ẩn tất cả các mục";
+
+/* No comment provided by engineer. */
+"Hold OPTION(⌥) and click on the menu bar icon to show / hide hidden items" = "Giữ phím OPTION(⌥) và nhấp vào biểu tượng trên thanh menu để hiển thị/ẩn các mục bị ẩn";
+
+/* No comment provided by engineer. */
+"Hold the COMMAND(⌘) to drag the menu bar items" = "Giữ phím COMMAND(⌘) để kéo các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Hovered" = "Đang trỏ vào";
+
+/* No comment provided by engineer. */
+"Icon:" = "Biểu tượng:";
+
+/* No comment provided by engineer. */
+"If you encounter any problems or would like to help us improve, or localize Barbee, please feel free to contact us!" = "Nếu bạn gặp phải bất kỳ vấn đề nào hoặc muốn giúp chúng tôi cải thiện, hoặc bản địa hóa Barbee, vui lòng liên hệ với chúng tôi!";
+
+/* No comment provided by engineer. */
+"If you want to use Barbee in normal mode, just remove the granted permissions in System Preferences." = "Nếu bạn muốn sử dụng Barbee ở chế độ thông thường, chỉ cần gỡ bỏ quyền đã cấp trong Tùy chọn Hệ thống.";
+
+/* No comment provided by engineer. */
+"Import" = "Nhập dữ liệu";
+
+/* No comment provided by engineer. */
+"In the case of multiple screens, non-notch screens will use normal mode to show/hide menu bar items" = "Trong trường hợp có nhiều màn hình, màn hình không có khuyết tai thỏ sẽ sử dụng chế độ thông thường để hiển thị/ẩn các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "Bóng trong";
+
+/* No comment provided by engineer. */
+"Inner Shadow State" = "Trạng thái Bóng trong";
+
+/* No comment provided by engineer. */
+"InterItem Horizontal Padding" = "Khoảng cách ngang giữa các mục";
+
+/* No comment provided by engineer. */
+"InterItem Vertical Padding" = "Khoảng cách dọc giữa các mục";
+
+/* No comment provided by engineer. */
+"Is Menu Bar Visible" = "Thanh menu có hiển thị không";
+
+/* No comment provided by engineer. */
+"Is menu bar visible?" = "Thanh menu có hiển thị không?";
+
+/* No comment provided by engineer. */
+"Is Movable by Window Background" = "Có thể di chuyển bằng nền cửa sổ";
+
+/* No comment provided by engineer. */
+"Item has any changes" = "Mục đã có thay đổi";
+
+/* No comment provided by engineer. */
+"Item Identifier" = "Định danh mục";
+
+/* No comment provided by engineer. */
+"Items" = "Các mục";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be always hidden. Hold the command ⌘ key to drag the items in menu bar." = "Các mục được kéo sang trái sẽ luôn bị ẩn. Giữ phím command ⌘ để kéo các mục trên thanh menu.";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be hidden. Hold the command ⌘ key to drag the items in menu bar." = "Các mục được kéo sang trái sẽ bị ẩn. Giữ phím command ⌘ để kéo các mục trên thanh menu.";
+
+/* No comment provided by engineer. */
+"Items on the left side of the icon " = "Các mục bên trái biểu tượng ";
+
+/* No comment provided by engineer. */
+"Launch At Login" = "Khởi động khi đăng nhập";
+
+/* No comment provided by engineer. */
+"Level" = "Cấp độ";
+
+/* No comment provided by engineer. */
+"Lifetime" = "Trọn đời";
+
+/* No comment provided by engineer. */
+"Lifetime - %@" = "Trọn đời - %@";
+
+/* No comment provided by engineer. */
+"Light Background Color" = "Màu nền sáng";
+
+/* No comment provided by engineer. */
+"Lowest" = "Thấp nhất";
+
+/* No comment provided by engineer. */
+"macOS log out required" = "Yêu cầu đăng xuất macOS";
+
+/* No comment provided by engineer. */
+"Makes the notch disappear like a NINJA 🥷. (You can also set the menu bar color to ⬛️)" = "Làm cho phần khuyết tai thỏ biến mất như một NINJA 🥷. (Bạn cũng có thể đặt màu thanh menu thành ⬛️)";
+
+/* No comment provided by engineer. */
+"Manage App Modules in Menu Bar" = "Quản lý Mô-đun Ứng dụng trên Thanh Menu";
+
+/* No comment provided by engineer. */
+"Manage System Modules in Menu Bar" = "Quản lý Mô-đun Hệ thống trên Thanh Menu";
+
+/* No comment provided by engineer. */
+"Managing app modules requires user directory authorization" = "Quản lý mô-đun ứng dụng yêu cầu cấp quyền thư mục người dùng";
+
+/* No comment provided by engineer. */
+"Menu Bar" = "Thanh Menu";
+
+/* No comment provided by engineer. */
+"Menu Bar Appearance" = "Giao diện Thanh Menu";
+
+/* No comment provided by engineer. */
+"Menu Bar Color:" = "Màu Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Menu Bar Item Gap:" = "Khoảng cách giữa các mục trên Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout" = "Bố cục Thanh Menu";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout feature requires additional permissions!" = "Tính năng Bố cục Thanh Menu yêu cầu thêm quyền!";
+
+/* No comment provided by engineer. */
+"Menu Bar Shadow:" = "Bóng Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Menu Bar:" = "Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Mode has been changed successfully" = "Chế độ đã được thay đổi thành công";
+
+/* No comment provided by engineer. */
+"Mode:" = "Chế độ:";
+
+/* No comment provided by engineer. */
+"More" = "Thêm";
+
+/* No comment provided by engineer. */
+"Multi-screen:" = "Nhiều màn hình:";
+
+/* No comment provided by engineer. */
+"Name" = "Tên";
+
+/* No comment provided by engineer. */
+"Name:" = "Tên:";
+
+/* No comment provided by engineer. */
+"New" = "Mới";
+
+/* No comment provided by engineer. */
+"New Items Location" = "Vị trí Mục mới";
+
+/* No comment provided by engineer. */
+"🆕️ Request new features" = "🆕️ Yêu cầu tính năng mới";
+
+/* No comment provided by engineer. */
+"New Single Widget..." = "Widget đơn mới...";
+
+/* No comment provided by engineer. */
+"New Widget" = "Widget mới";
+
+/* No comment provided by engineer. */
+"New Widget Group" = "Nhóm Widget mới";
+
+/* No comment provided by engineer. */
+"New Widget Group..." = "Nhóm Widget mới...";
+
+/* No comment provided by engineer. */
+"Newly discovered menu bar items will be moved to:" = "Các mục trên thanh menu mới phát hiện sẽ được di chuyển đến:";
+
+/* No comment provided by engineer. */
+"No" = "Không";
+
+/* No comment provided by engineer. */
+"No action" = "Không hành động";
+
+/* No comment provided by engineer. */
+"No backups" = "Không có bản sao lưu";
+
+/* No comment provided by engineer. */
+"No configurable app modules found" = "Không tìm thấy mô-đun ứng dụng có thể cấu hình";
+
+/* No comment provided by engineer. */
+"No Gap - no spacing between items" = "Không có khoảng cách - không có khoảng cách giữa các mục";
+
+/* No comment provided by engineer. */
+"No matching results" = "Không có kết quả phù hợp";
+
+/* No comment provided by engineer. */
+"Non-subscription, totally free" = "Không có đăng ký, hoàn toàn miễn phí";
+
+/* No comment provided by engineer. */
+"Normal" = "Bình thường";
+
+/* No comment provided by engineer. */
+"Normal Gap - normal spacing between items" = "Khoảng cách Bình thường - khoảng cách bình thường giữa các mục";
+
+/* No comment provided by engineer. */
+"Normal Mode" = "Chế độ Bình thường";
+
+/* No comment provided by engineer. */
+"Not Now" = "Không phải bây giờ";
+
+/* No comment provided by engineer. */
+"Notch:" = "Khuyết tai thỏ:";
+
+/* No comment provided by engineer. */
+"Ok" = "Đồng ý";
+
+/* No comment provided by engineer. */
+"One-time purchase" = "Mua một lần";
+
+/* No comment provided by engineer. */
+"Oops, No Hidden Items! 🔥️You can arrange items in the Preferences." = "Ôi không, Không có Mục ẩn nào! 🔥️Bạn có thể sắp xếp các mục trong Tùy chọn.";
+
+/* No comment provided by engineer. */
+"Open System Preferences..." = "Mở Tùy chọn Hệ thống...";
+
+/* No comment provided by engineer. */
+"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`." = "Vui lòng giữ phím command(⌘) và kéo các biểu tượng `<`, `|` và `Barbee` trên thanh menu và đặt chúng theo thứ tự đúng. Thứ tự là: biểu tượng luôn bị ẩn `<` biểu tượng bị ẩn `|` biểu tượng hiển thị `biểu tượng Barbee`.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Tùy chọn";
+
+/* No comment provided by engineer. */
+"Preferences..." = "Tùy chọn...";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Chính sách quyền riêng tư";
+
+/* No comment provided by engineer. */
+"Profile" = "Hồ sơ";
+
+/* No comment provided by engineer. */
+"Profile Entry:" = "Mục Hồ sơ:";
+
+/* No comment provided by engineer. */
+"Profile Name" = "Tên Hồ sơ";
+
+/* No comment provided by engineer. */
+"Purchase & Restore" = "Mua & Khôi phục";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Tìm kiếm nhanh";
+
+/* No comment provided by engineer. */
+"Quick Search Entry:" = "Mục Tìm kiếm nhanh:";
+
+/* No comment provided by engineer. */
+"Quick Search feature requires additional permissions!" = "Tính năng Tìm kiếm nhanh yêu cầu thêm quyền!";
+
+/* No comment provided by engineer. */
+"Quick Search:" = "Tìm kiếm nhanh:";
+
+/* No comment provided by engineer. */
+"Quick Start Guide" = "Hướng dẫn Bắt đầu Nhanh";
+
+/* No comment provided by engineer. */
+"Quit" = "Thoát";
+
+/* No comment provided by engineer. */
+"Recommended for users with a large screen or no icons hidden by the system." = "Được khuyến nghị cho người dùng có màn hình lớn hoặc không có biểu tượng nào bị hệ thống ẩn.";
+
+/* No comment provided by engineer. */
+"Recommended for users with bangs on the screen or users with hidden icons in the system." = "Được khuyến nghị cho người dùng có phần khuyết trên màn hình hoặc người dùng có biểu tượng bị ẩn trong hệ thống.";
+
+/* No comment provided by engineer. */
+"Reduce Refresh Rate When Using Battery Power" = "Giảm Tần số Làm mới Khi Sử dụng Nguồn pin";
+
+/* No comment provided by engineer. */
+"Refresh" = "Làm mới";
+
+/* No comment provided by engineer. */
+"Refresh Interval in Seconds" = "Khoảng thời gian Làm mới tính bằng Giây";
+
+/* No comment provided by engineer. */
+"Refresh menu bar items" = "Làm mới các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Refresh Menu Bar Items" = "Làm mới các Mục trên Thanh Menu";
+
+/* No comment provided by engineer. */
+"Related Item:" = "Mục liên quan:";
+
+/* No comment provided by engineer. */
+"Reduce useable screen space to mask notch" = "Giảm không gian màn hình sử dụng để che phần khuyết tai thỏ";
+
+/* No comment provided by engineer. */
+"Remove/Add top notch when you use the notched Mac." = "Xóa/Thêm phần khuyết tai thỏ trên cùng khi bạn sử dụng Mac có phần khuyết tai thỏ.";
+
+/* No comment provided by engineer. */
+"Request Access..." = "Yêu cầu Truy cập...";
+
+/* No comment provided by engineer. */
+"Reset" = "Đặt lại";
+
+/* No comment provided by engineer. */
+"Restore Purchase" = "Khôi phục Mua hàng";
+
+/* No comment provided by engineer. */
+"Restore successfully! If it still doesn't work, please reinstall the app." = "Khôi phục thành công! Nếu nó vẫn không hoạt động, vui lòng cài đặt lại ứng dụng.";
+
+/* No comment provided by engineer. */
+"Returns all menu bar items." = "Trả về tất cả các mục trên thanh menu.";
+
+/* No comment provided by engineer. */
+"Returns always hidden menu bar items." = "Trả về các mục trên thanh menu luôn bị ẩn.";
+
+/* No comment provided by engineer. */
+"Returns app modules using app bundle identifier." = "Trả về các mô-đun ứng dụng bằng cách sử dụng định danh bundle ứng dụng.";
+
+/* No comment provided by engineer. */
+"Returns hidden menu bar items." = "Trả về các mục trên thanh menu bị ẩn.";
+
+/* No comment provided by engineer. */
+"Returns shown menu bar items." = "Trả về các mục trên thanh menu hiển thị.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren has top notch." = "Trả về việc màn hình đang hoạt động hiện tại có phần khuyết trên cùng hay không.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren menu bar is visible." = "Trả về việc thanh menu của màn hình đang hoạt động hiện tại có hiển thị hay không.";
+
+/* No comment provided by engineer. */
+"Reveal In Finder" = "Hiển thị Trong Finder";
+
+/* No comment provided by engineer. */
+"Scopes:" = "Phạm vi:";
+
+/* No comment provided by engineer. */
+"Screen Recording" = "Ghi màn hình";
+
+/* No comment provided by engineer. */
+"Search for a menu bar item" = "Tìm kiếm một mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Select" = "Chọn";
+
+/* No comment provided by engineer. */
+"Select a related menu bar item" = "Chọn một mục trên thanh menu liên quan";
+
+/* No comment provided by engineer. */
+"Select..." = "Chọn...";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide all items:" = "Phím tắt để hiển thị/ẩn tất cả các mục:";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide hidden items:" = "Phím tắt để hiển thị/ẩn các mục bị ẩn:";
+
+/* No comment provided by engineer. */
+"Shortcut:" = "Phím tắt:";
+
+/* No comment provided by engineer. */
+"Shortcuts" = "Phím tắt";
+
+/* No comment provided by engineer. */
+"Show" = "Hiển thị";
+
+/* No comment provided by engineer. */
+"Show all" = "Hiển thị tất cả";
+
+/* No comment provided by engineer. */
+"Show All" = "Hiển thị tất cả";
+
+/* No comment provided by engineer. */
+"Show all menu bar items" = "Hiển thị tất cả các mục trên thanh menu";
+
+/* No comment provided by engineer. */
+"Show Entry in Menu" = "Hiển thị Mục trong Menu";
+
+/* No comment provided by engineer. */
+"Show hidden menu bar items" = "Hiển thị các mục bị ẩn trên thanh menu";
+
+/* No comment provided by engineer. */
+"Show in All Spaces" = "Hiển thị trong Tất cả các không gian";
+
+/* No comment provided by engineer. */
+"Show Menu Bar Item (Enhanced mode only)" = "Hiển thị Mục trên Thanh Menu (chỉ chế độ Nâng cao)";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Hiển thị mục trên thanh menu theo định danh: ${itemIdentifier}, tới X: ${x}";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Hiển thị mục trên thanh menu theo định danh (ví dụ: \"com.apple.controlcenter-WiFi\"), X là tùy chọn.";
+
+/* No comment provided by engineer. */
+"Show Profile in Menu" = "Hiển thị Hồ sơ trong Menu";
+
+/* No comment provided by engineer. */
+"Shown Items" = "Các mục được hiển thị";
+
+/* No comment provided by engineer. */
+"Shown Items:" = "Các mục được hiển thị:";
+
+/* No comment provided by engineer. */
+"Shown Menu Bar Item" = "Mục trên Thanh Menu được hiển thị";
+
+/* No comment provided by engineer. */
+"Small Gap - proper spacing between items" = "Khoảng cách nhỏ - khoảng cách hợp lý giữa các mục";
+
+/* No comment provided by engineer. */
+"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "Một số mục trên thanh menu sẽ được chuyển sang một thanh menu riêng trong chế độ nâng cao, chế độ này yêu cầu người dùng cấp một số quyền cần thiết (Ghi màn hình & Truy cập), nhưng sẽ không có yêu cầu quyền bổ sung trong chế độ bình thường.";
+
+/* No comment provided by engineer. */
+"Something Wrong?" = "Có điều gì sai?";
+
+/* No comment provided by engineer. */
+"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 Nếu ứng dụng vẫn thông báo rằng không có quyền sau khi bạn cấp quyền cho Barbee, vui lòng hủy cấp quyền cho Barbee và xóa Barbee trong danh sách cấp quyền, sau đó khởi động lại Barbee và cấp quyền lại.";
+
+/* No comment provided by engineer. */
+"Start" = "Bắt đầu";
+
+/* No comment provided by engineer. */
+"Start BarBee automatically at login." = "Tự động khởi động BarBee khi đăng nhập.";
+
+/* No comment provided by engineer. */
+"Startup:" = "Khởi động:";
+
+/* No comment provided by engineer. */
+"State" = "Trạng thái";
+
+/* No comment provided by engineer. */
+"Switch App Module State" = "Chuyển trạng thái Mô-đun Ứng dụng";
+
+/* No comment provided by engineer. */
+"Switch Barbee Mode" = "Chuyển chế độ Barbee";
+
+/* No comment provided by engineer. */
+"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Chuyển trạng thái mô-đun ứng dụng trên thanh menu theo định danh của nó (ví dụ: \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "Chuyển trạng thái mô-đun ứng dụng:${state} trên thanh menu theo định danh của nó: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Switch to Enhanced Mode" = "Chuyển sang chế độ Nâng cao";
+
+/* No comment provided by engineer. */
+"Switch to Normal Mode" = "Chuyển sang chế độ Bình thường";
+
+/* No comment provided by engineer. */
+"Symbol:" = "Biểu tượng:";
+
+/* No comment provided by engineer. */
+"Sync from iCloud drive" = "Đồng bộ từ ổ iCloud";
+
+/* No comment provided by engineer. */
+"Sync profile successfully." = "Đồng bộ hồ sơ thành công.";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Điều khoản Sử dụng";
+
+/* No comment provided by engineer. */
+"Thanks for purchasing Barbee VIP" = "Cảm ơn bạn đã mua Barbee VIP";
+
+/* No comment provided by engineer. */
+"Thanks for trying Barbee" = "Cảm ơn bạn đã thử Barbee";
+
+/* No comment provided by engineer. */
+"The automation will be deleted and changes take effect immediately" = "Tự động hóa sẽ bị xóa và các thay đổi sẽ có hiệu lực ngay lập tức";
+
+/* No comment provided by engineer. */
+"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "Phiên bản beta có thể chứa lỗi hoặc gây ra vấn đề. Mọi phản hồi của bạn luôn được trân trọng.";
+
+/* No comment provided by engineer. */
+"The changes have been saved, and it will take effect after exiting and restarting the app `%@`." = "Các thay đổi đã được lưu, và sẽ có hiệu lực sau khi thoát và khởi động lại ứng dụng `%@`.";
+
+/* No comment provided by engineer. */
+"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "Các mô-đun sau đây đã được tìm thấy có thể hiển thị trên thanh menu, bạn có thể bật hoặc tắt chúng.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "Biểu tượng trên thanh menu bị ẩn sẽ xuất hiện trong một thanh menu riêng ở góc trên bên phải.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icons will be collapsed." = "Các biểu tượng trên thanh menu bị ẩn sẽ bị thu gọn.";
+
+/* No comment provided by engineer. */
+"The hover area of the menu bar include the app menu and Apple logo area" = "Khu vực di chuột của thanh menu bao gồm menu ứng dụng và khu vực logo Apple";
+
+/* No comment provided by engineer. */
+"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "Các hồ sơ iCloud sẽ bị thay thế bằng các hồ sơ cục bộ, không thể khôi phục.";
+
+/* No comment provided by engineer. */
+"The item is invisible" = "Mục không hiển thị";
+
+/* No comment provided by engineer. */
+"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "Mục không hiển thị do phần khuyết tai thỏ trên cùng, bạn có thể ẩn phần khuyết tai thỏ, điều chỉnh độ phân giải của màn hình hoặc giảm số lượng mục hiển thị trong tùy chọn của Barbee.";
+
+/* No comment provided by engineer. */
+"The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "Mục không hiển thị do thanh menu không có đủ không gian, bạn có thể điều chỉnh độ phân giải của màn hình hoặc giảm số lượng mục hiển thị trong tùy chọn của Barbee.";
+
+/* No comment provided by engineer. */
+"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "Các hồ sơ cục bộ sẽ bị thay thế bằng các hồ sơ iCloud, không thể khôi phục.";
+
+/* No comment provided by engineer. */
+"The profile has been exported." = "Hồ sơ đã được xuất.";
+
+/* No comment provided by engineer. */
+"The profile has been imported." = "Hồ sơ đã được nhập dữ liệu.";
+
+/* No comment provided by engineer. */
+"The selected item is not in the menu bar now" = "Mục được chọn hiện không có trên thanh menu";
+
+/* No comment provided by engineer. */
+"The shadow below the menu bar" = "Bóng dưới thanh menu";
+
+/* No comment provided by engineer. */
+"The shadow in the menu bar" = "Bóng trong thanh menu";
+
+/* No comment provided by engineer. */
+"The shortcut will be deleted and changes take effect immediately" = "Phím tắt sẽ bị xóa và các thay đổi sẽ có hiệu lực ngay lập tức";
+
+/* No comment provided by engineer. */
+"Then: %@" = "Sau đó: %@";
+
+/* No comment provided by engineer. */
+"Top Notch" = "Phần khuyết tai thỏ trên cùng";
+
+/* No comment provided by engineer. */
+"Topmost" = "Trên cùng";
+
+/* No comment provided by engineer. */
+"Trigger:" = "Kích hoạt:";
+
+/* No comment provided by engineer. */
+"Upgrade to Barbee VIP" = "Nâng cấp lên Barbee VIP";
+
+/* No comment provided by engineer. */
+"Use Barbee in enhanced mode?" = "Sử dụng Barbee ở chế độ Nâng cao?";
+
+/* No comment provided by engineer. */
+"Use in Shortcuts" = "Sử dụng trong Phím tắt";
+
+/* No comment provided by engineer. */
+"View iCloud profiles" = "Xem hồ sơ iCloud";
+
+/* No comment provided by engineer. */
+"View URL Schemes" = "Xem các sơ đồ URL";
+
+/* No comment provided by engineer. */
+"Welcome to Barbee!" = "Chào mừng đến với Barbee!";
+
+/* No comment provided by engineer. */
+"When hovering for more than a certain period of time, show hidden items." = "Khi di chuột quá một khoảng thời gian nhất định, hiển thị các mục bị ẩn.";
+
+/* No comment provided by engineer. */
+"When hovering over the menu bar, hidden items will be shown automatically" = "Khi di chuột qua thanh menu, các mục bị ẩn sẽ tự động hiển thị";
+
+/* No comment provided by engineer. */
+"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically" = "Khi di chuột qua menu của ứng dụng hoặc logo Apple(🍎), các mục bị ẩn cũng sẽ tự động hiển thị";
+
+/* No comment provided by engineer. */
+"When leaving the menu bar, hidden items will be hidden again" = "Khi rời khỏi thanh menu, các mục bị ẩn sẽ bị ẩn lại";
+
+/* No comment provided by engineer. */
+"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "Khi màn hình ngoài trở thành tiêu điểm, tất cả các mục trên thanh menu sẽ hiển thị, và khi tiêu điểm mất đi, chúng sẽ bị ẩn lại.";
+
+/* No comment provided by engineer. */
+"When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem." = "Khi có vấn đề với Barbee, bạn có thể thử khởi động lại Barbee để giải quyết vấn đề này.";
+
+/* No comment provided by engineer. */
+"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "Khi bạn nhấp vào khu vực trống trên thanh menu, Barbee sẽ chuyển đổi hiển thị các mục bị ẩn.";
+
+/* No comment provided by engineer. */
+"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "Khi bạn nhấp vào biểu tượng trên thanh menu, Barbee sẽ chuyển đổi hiển thị các mục bị ẩn thay vì menu của Barbee. Menu của Barbee sẽ hiển thị khi bạn nhấp chuột phải vào biểu tượng trên thanh menu.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "Khi bạn giữ CONTROL(⌃) và nhấp vào biểu tượng trên thanh menu, Barbee sẽ chuyển đổi hiển thị/ẩn tất cả các mục.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "Khi bạn giữ CONTROL(⌃) và nhấp vào thanh menu, Barbee sẽ chuyển đổi hiển thị/ẩn tất cả các mục.";
+
+/* No comment provided by engineer. */
+"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "Khi bạn giữ OPTION(⌥) và nhấp vào biểu tượng trên thanh menu, Barbee sẽ chuyển đổi hiển thị/ẩn các mục bị ẩn.";
+
+/* No comment provided by engineer. */
+"When: %@" = "Khi: %@";
+
+/* No comment provided by engineer. */
+"Which mode of tutorial would you like to see?" = "Bạn muốn xem hướng dẫn ở chế độ nào?";
+
+/* No comment provided by engineer. */
+"Widget" = "Widget";
+
+/* No comment provided by engineer. */
+"Widget Entry:" = "Mục Widget:";
+
+/* No comment provided by engineer. */
+"Widget feature requires additional permissions!" = "Tính năng Widget yêu cầu thêm quyền!";
+
+/* No comment provided by engineer. */
+"Width" = "Chiều rộng";
+
+/* No comment provided by engineer. */
+"Wrong order of Barbee menu bar icons" = "Sai thứ tự các biểu tượng trên thanh menu của Barbee";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* No comment provided by engineer. */
+"Yes" = "Có";
+
+/* No comment provided by engineer. */
+"You can check out the quick start guide to learn more about the two modes of Barbee." = "Bạn có thể xem hướng dẫn bắt đầu nhanh để tìm hiểu thêm về hai chế độ của Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Profile` entry in Barbee's menu." = "Bạn có thể bật hoặc tắt mục `Hồ sơ` trong menu của Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Quick Search` entry in Barbee's menu." = "Bạn có thể bật hoặc tắt mục `Tìm kiếm nhanh` trong menu của Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Widget` entry in Barbee's menu." = "Bạn có thể bật hoặc tắt mục `Widget` trong menu của Barbee.";
+
+/* No comment provided by engineer. */
+"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "Bạn có thể xuất nhật ký chuẩn đoán và gửi lại cho nhà phát triển, điều này có thể giúp nhà phát triển giải quyết vấn đề của bạn.";
+
+/* No comment provided by engineer. */
+"You can modify the layout of the extra menu bar in the app's preferences window" = "Bạn có thể chỉnh sửa bố cục của thanh menu phụ trong cửa sổ tùy chọn của ứng dụng";
+
+/* No comment provided by engineer. */
+"You have unlocked all features for 3 days, enjoy!" = "Bạn đã mở khóa tất cả các tính năng trong 3 ngày, tận hưởng nhé!";
+
+/* No comment provided by engineer. */
+"You have unlocked all features, enjoy!" = "Bạn đã mở khóa tất cả các tính năng, tận hưởng nhé!";
+
+/* No comment provided by engineer. */
+"Arrange" = "Sắp xếp";
+
+/* No comment provided by engineer. */
+"• Cloud backup and sync profiles" = "• Sao lưu đám mây và đồng bộ hóa hồ sơ";
+
+/* No comment provided by engineer. */
+"• Supercharge your scripts or shortcuts with Barbee" = "• Tăng cường tập lệnh hoặc phím tắt của bạn với Barbee";
+
+/* No comment provided by engineer. */
+"No items found" = "Không tìm thấy mục nào";
+
+/* No comment provided by engineer. */
+"This prompt will appear when Barbee is running on a newer version of macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "Thông báo này sẽ xuất hiện khi Barbee chạy trên phiên bản macOS mới hơn để chụp ảnh màn hình các mục trên thanh menu. \n⛔️ Barbee là ứng dụng ngoại tuyến không có quyền truy cập mạng.";
+
+/* No comment provided by engineer. */
+"Got it" = "Hiểu rồi";
+
+/* No comment provided by engineer. */
+"🧮 Restore Patches" = "🧮 Khôi phục bản vá";
+
+/* No comment provided by engineer. */
+"Reset All Permissions" = "Đặt lại tất cả quyền";
+
+/* No comment provided by engineer. */
+"Do you want to import this patch?" = "Bạn có muốn nhập bản vá này không?";
+
+/* No comment provided by engineer. */
+"The patch has been imported." = "Bản vá đã được nhập.";
+
+/* No comment provided by engineer. */
+"Failed to import patch." = "Không thể nhập bản vá.";
+
+/* No comment provided by engineer. */
+"Active Symbol" = "Biểu tượng Hoạt động";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number: ${number}" = "Biểu tượng Barbee hoạt động với số: ${number}";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number." = "Biểu tượng Barbee hoạt động với số.";
+
+/* No comment provided by engineer. */
+"Symbol Number" = "Số Biểu tượng";
+
+/* No comment provided by engineer. */
+"Text" = "Văn bản";
+
+/* No comment provided by engineer. */
+"Image" = "Hình ảnh";
+
+/* No comment provided by engineer. */
+"Search" = "Tìm kiếm";
+
+/* No comment provided by engineer. */
+"Cancel" = "Hủy bỏ";
+
+/* No comment provided by engineer. */
+"Launch Barbee at login?" = "Khởi động Barbee khi đăng nhập?";
+
+/* No comment provided by engineer. */
+"It is strongly recommended to launch Barbee at login, would you like to enable it?" = "Rất khuyến khích khởi động Barbee khi đăng nhập, bạn có muốn bật không?";
+
+/* No comment provided by engineer. */
+"Rate on the Mac App Store" = "Đánh giá trên Mac App Store";
+
+/* No comment provided by engineer. */
+"Rate Now" = "Đánh giá ngay";
+
+/* No comment provided by engineer. */
+"Love Barbee?" = "Thích Barbee?";
+
+/* No comment provided by engineer. */
+"Whether you love Barbee or feel we could be doing better, we want to know!" = "Dù bạn yêu thích Barbee hay cảm thấy chúng tôi có thể làm tốt hơn, chúng tôi đều muốn biết!";
+
+/* No comment provided by engineer. */
+"Barbee's menu bar icon has been hidden" = "Biểu tượng thanh menu của Barbee đã bị ẩn";
+
+/* No comment provided by engineer. */
+"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "Bạn có thể thay đổi vị trí của biểu tượng thanh menu của Barbee trong cài đặt `Bố cục Thanh Menu`";
+
+/* No comment provided by engineer. */
+"Ignore" = "Bỏ qua";
+
+/* No comment provided by engineer. */
+"The icon may persist in the menu bar and impact your experience using Barbee." = "Biểu tượng có thể vẫn tồn tại trên thanh menu và ảnh hưởng đến trải nghiệm của bạn khi sử dụng Barbee.";
+
+/* No comment provided by engineer. */
+"Cursor Keeps Flickering?" = "Con trỏ liên tục nhấp nháy?";
+
+/* No comment provided by engineer. */
+"If your cursor keeps flickering, try clicking the button to fix it." = "Nếu con trỏ của bạn liên tục nhấp nháy, hãy thử nhấp vào nút để khắc phục.";
+
+/* No comment provided by engineer. */
+"🔨 Fix cursor issues" = "🔨 Khắc phục sự cố con trỏ";
+
+/* No comment provided by engineer. */
+"Cursor issues fixed successfully" = "Sự cố con trỏ đã được khắc phục thành công";
+
+/* No comment provided by engineer. */
+"Cursor issue fix failed" = "Khắc phục sự cố con trỏ không thành công";
+
+/* No comment provided by engineer. */
+"Menu Bar Style:" = "Kiểu Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Menu Bar Size:" = "Kích thước Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Unified" = "Hợp nhất";
+
+/* No comment provided by engineer. */
+"Separated" = "Tách biệt";
+
+/* No comment provided by engineer. */
+"Regular" = "Thường";
+
+/* No comment provided by engineer. */
+"Thin" = "Mỏng";
+
+/* No comment provided by engineer. */
+"Mini" = "Nhỏ";
+
+/* No comment provided by engineer. */
+"Menu Bar Tint:" = "Màu sắc Thanh Menu:";
+
+/* No comment provided by engineer. */
+"⬅️Left" = "⬅️Trái";
+
+/* No comment provided by engineer. */
+"Right➡️" = "Phải➡️";
+
+/* No comment provided by engineer. */
+"Menu Bar Corner Radius:" = "Bán kính góc Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Default" = "Mặc định";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Color:" = "Màu viền Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Width:" = "Độ rộng viền Thanh Menu:";
+
+/* No comment provided by engineer. */
+"Thanks to all who keep supporting Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get it free of charge🆓️. \\n\\n🌐️ If you can help translate Barbee into your language or improve Barbee's current translations, \\nyou will have the lifetime version and your name will be listed as a contributor to Barbee." = "Cảm ơn tất cả những người đã ủng hộ Barbee🖤.\nSự khích lệ của bạn là nguồn động lực giúp tôi tiếp tục.\n\nNếu bạn là sinh viên, giáo viên, người bảo trì mã nguồn mở, hoặc nếu việc mua phiên bản trả phí này vượt quá khả năng hiện tại của bạn,\n👋 vui lòng liên hệ. Bạn sẽ nhận được phiên bản miễn phí🆓️. \n\n🌐️ Nếu bạn có thể giúp dịch Barbee sang ngôn ngữ của bạn hoặc cải thiện bản dịch hiện tại của Barbee,\nbạn sẽ nhận được phiên bản trọn đời và tên của bạn sẽ được liệt kê như một người đóng góp cho Barbee.";
+
+/* No comment provided by engineer. */
+"Get it for free" = "Nhận miễn phí";
+
+/* No comment provided by engineer. */
+"Redeem code" = "Nhập mã";
+
+/* No comment provided by engineer. */
+"Award" = "Giải thưởng";
+
+/* No comment provided by engineer. */
+"Yearly" = "Hàng năm";
+
+/* No comment provided by engineer. */
+"Yearly VIP membership" = "Thành viên VIP hàng năm";
+
+/* No comment provided by engineer. */
+"Yearly - %@" = "Hàng năm - %@";
+
+/* No comment provided by engineer. */
+"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "Thanh toán của bạn sẽ được trừ vào Tài khoản iTunes của bạn khi bạn xác nhận mua hàng. Tài khoản iTunes của bạn sẽ bị trừ tiếp khi đăng ký tự động gia hạn vào cuối kỳ đăng ký hiện tại trừ khi tự động gia hạn bị tắt ít nhất 24 giờ trước khi kết thúc kỳ hiện tại. Bạn có thể quản lý hoặc tắt tự động gia hạn trong Cài đặt Tài khoản Apple ID bất cứ lúc nào sau khi mua hàng.";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Quản lý Đăng ký";
+
+/* No comment provided by engineer. */
+"When the screen width is wide enough, menu bar icons will no longer be hidden" = "Khi chiều rộng màn hình đủ rộng, các biểu tượng trên thanh menu sẽ không bị ẩn nữa";
+
+/* No comment provided by engineer. */
+"The screen width threshold" = "Ngưỡng chiều rộng màn hình";
+
+/* No comment provided by engineer. */
+"pixel(s)" = "pixel";
+
+/* No comment provided by engineer. */
+"Found screen size(s):" = "Đã tìm thấy kích thước màn hình:";
+
+/* No comment provided by engineer. */
+"Reset All" = "Đặt lại tất cả";
+
+/* No comment provided by engineer. */
+"Reset to default appearance:" = "Đặt lại giao diện mặc định:";
+
+/* No comment provided by engineer. */
+"Follow us" = "Theo dõi chúng tôi";
+
+/* No comment provided by engineer. */
+"Translate Barbee" = "Dịch Barbee";
+
+/* No comment provided by engineer. */
+"Start Translating" = "Bắt đầu dịch";
+
+/* No comment provided by engineer. */
+"💦Contributors" = "💦Người đóng góp";
+
+/* No comment provided by engineer. */
+"Special thanks to these volunteers for helping with Barbee Localization! 🌍🌎🌏" = "Đặc biệt cảm ơn những tình nguyện viên này vì đã giúp đỡ với việc bản địa hóa Barbee! 🌍🌎🌏";
+
+/* No comment provided by engineer. */
+"👋Translating Barbee" = "👋Dịch Barbee";
+
+/* No comment provided by engineer. */
+"If you want to help translate Barbee into other languages or improve existing translations, we would very appreciate that." = "Nếu bạn muốn giúp dịch Barbee sang các ngôn ngữ khác hoặc cải thiện các bản dịch hiện có, chúng tôi rất trân trọng điều đó.";
+
+/* No comment provided by engineer. */
+"Optimization:" = "Tối ưu hóa:";
+
+/* No comment provided by engineer. */
+"Reduce the interference of the `Screen Recording` icon" = "Giảm sự can thiệp của biểu tượng `Ghi màn hình`";
+
+/* No comment provided by engineer. */
+"Reduce the refresh frequency of the menu bar icon and optimize the appearance probability of the `Screen Recording` icon." = "Giảm tần số làm mới của biểu tượng thanh menu và tối ưu hóa xác suất xuất hiện của biểu tượng `Ghi màn hình`.";
+
+/* No comment provided by engineer. */
+"Special thanks to:" = "Đặc biệt cảm ơn:";
+
+/* No comment provided by engineer. */
+"Optimize the cursor click, unable to move, flicker and disappear issues" = "Tối ưu hóa sự cố nhấp chuột, không thể di chuyển, nhấp nháy và biến mất của con trỏ";
+
+/* No comment provided by engineer. */
+"Use the more optimized menu bar icon management algorithm" = "Sử dụng thuật toán quản lý biểu tượng thanh menu được tối ưu hóa hơn";
+
+/* No comment provided by engineer. */
+"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "Mẹo: Bạn cũng có thể giữ phím command ⌘ và kéo biểu tượng trên thanh menu để thay đổi bố cục thanh menu.";
+
+/* No comment provided by engineer. */
+"Special Item Library:" = "Thư viện Mục Đặc biệt:";
+
+/* No comment provided by engineer. */
+"Add spacer between items" = "Thêm khoảng cách giữa các mục";
+
+/* No comment provided by engineer. */
+"Put items into a group" = "Đặt các mục vào một nhóm";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Chiều rộng khoảng cách: %d";
+
+/* No comment provided by engineer. */
+"Width:" = "Chiều rộng:";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Chiều rộng khoảng cách: %d";
+
+/* No comment provided by engineer. */
+"Automatically hide other items before showing hidden items" = "Tự động ẩn các mục khác trước khi hiển thị các mục bị ẩn";
+
+/* No comment provided by engineer. */
+"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "Hiển thị các mục bị ẩn một cách cô đọng và tập trung hơn, nhưng chỉ hoạt động ở 'Chế độ Nâng cao'";
+
+/* No comment provided by engineer. */
+"Items in group:" = "Các mục trong nhóm:";
+
+/* No comment provided by engineer. */
+"Candidates:" = "Các ứng viên:";
+
+/* No comment provided by engineer. */
+"Group: %@" = "Nhóm: %@";
+
+/* No comment provided by engineer. */
+"No name" = "Không có tên";
+
+/* No comment provided by engineer. */
+"Drop down menu bar participates in macOS window cycling" = "Thanh menu thả xuống tham gia vào việc chuyển đổi cửa sổ macOS";
+
+/* No comment provided by engineer. */
+"The drop down menu bar can become the user's active window." = "Thanh menu thả xuống có thể trở thành cửa sổ hoạt động của người dùng.";
+
+/* No comment provided by engineer. */
+"Show group on click" = "Hiển thị nhóm khi nhấp";
+
+/* No comment provided by engineer. */
+"Show group on hover" = "Hiển thị nhóm khi di chuột";
+
+/* No comment provided by engineer. */
+"Auto sync with iCloud" = "Tự động đồng bộ với iCloud";
+
+/* No comment provided by engineer. */
+"Rename" = "Đổi tên";
+
+/* No comment provided by engineer. */
+"Matches icon state" = "Khớp với trạng thái biểu tượng";
+
+/* No comment provided by engineer. */
+"Does not match icon state" = "Không khớp với trạng thái biểu tượng";
+
+/* No comment provided by engineer. */
+"Battery state" = "Trạng thái pin";
+
+/* No comment provided by engineer. */
+"Power source" = "Nguồn điện";
+
+/* No comment provided by engineer. */
+"⚡️Any Power Source" = "⚡️Bất kỳ nguồn điện nào";
+
+/* No comment provided by engineer. */
+"🔋 Battery" = "🔋 Pin";
+
+/* No comment provided by engineer. */
+"🔌 Power Adapter" = "🔌 Bộ nguồn điện";
